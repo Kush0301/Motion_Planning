@@ -6,11 +6,13 @@ The task was to implement Dijkstra's search algorithm on a road network. This al
 
 ### Results
 
-![Shortest Path](Search_Algorithms/shortest_path.png)
+<p float="center">
+  <img src=Search_Algorithms/shortest_path.png width="300" title="Shortest Path" />
+</p>
 
 <p float="left">
-  <img src="Search_Algorithms/Using_A*.png" width="300" />
-  <img src="Search_Algorithms/Using_Dijkstras.png" width="300" /> 
+  <img src="Search_Algorithms/Using_A*.png" width="300" title="Using A*"  />
+  <img src="Search_Algorithms/Using_Dijkstras.png" width="300" title="Using Dijsktras"  /> 
 </p>
 
 
