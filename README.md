@@ -12,7 +12,7 @@ The task was to implement Dijkstra's search algorithm on a road network. This al
   <em> Shortest Path
 </p>
 
-<p float="left">
+<p align="left">
   <img src="Search_Algorithms/Using_A*.png" width="300" title="Using A*"  />
 <br>
   <em> Using A*
